@@ -1,4 +1,4 @@
 # Expenso
-Expense Traker App
+Expense Tracker App
 
 Made by --ShubhamPatel
