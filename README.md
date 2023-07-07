@@ -13,6 +13,6 @@ Expenso is a cutting-edge expense tracking website designed to simplify and stre
 
 4) Data Security and Privacy: Rest assured that your financial data is safe with Expenso. We prioritize data security and employ robust encryption protocols to protect your sensitive information, so you can track your expenses with peace of mind.
 
-###### Experience the convenience and efficiency of Expenso - your trusted expense tracking companion that revolutionizes the way you manage your finances. Start your journey towards financial success today!
+#### Experience the convenience and efficiency of Expenso - your trusted expense tracking companion that revolutionizes the way you manage your finances. Start your journey towards financial success today!
 
-###### Made by --ShubhamPatel
+#### Made by --ShubhamPatel
