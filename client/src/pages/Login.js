@@ -36,8 +36,11 @@ function Login() {
   return (
     <div className="register">
       {loading && <Spinner />}
+       
       <div className="row justify-content-center align-items-center w-100 h-100">
+        
         <div className="col-md-4">
+        
           <Form layout="vertical" onFinish={onFinish}>
             <h1>Login</h1>
     

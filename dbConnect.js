@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-mongoose.connect('mongodb://127.0.0.1:27017/Transaction' , {useNewUrlParser : true , useUnifiedTopology : true})
+mongoose.connect('mongodb+srv://freindshubhampatel:gJ1r3gDxG0bqXNoC@cluster0.d7fymlq.mongodb.net/Expenso' , {useNewUrlParser : true , useUnifiedTopology : true})
 
 const connection = mongoose.connection
 
