@@ -9,9 +9,12 @@ Expenso is a cutting-edge expense tracking website designed to simplify and stre
 
 2) Real-Time Insights and Reports: Expenso provides real-time analytics and comprehensive reports that offer valuable insights into your spending patterns. Visualize your expenses through charts, graphs, and detailed summaries, enabling you to identify areas where you can save and make informed financial decisions.
 
-3) Budgeting and Goal Setting: Take control of your finances by setting budgets and financial goals within ExpensO. Monitor your progress and receive alerts when you approach or exceed your spending limits, helping you stay on track and avoid unnecessary expenses.
+3) Budgeting and Goal Setting: Take control of your finances by setting budgets and financial goals within Expenso. Monitor your progress and receive alerts when you approach or exceed your spending limits, helping you stay on track and avoid unnecessary expenses.
 
 4) Data Security and Privacy: Rest assured that your financial data is safe with Expenso. We prioritize data security and employ robust encryption protocols to protect your sensitive information, so you can track your expenses with peace of mind.
+
+## Website Link
+https://expenso-nine.vercel.app/
 
 #### Experience the convenience and efficiency of Expenso - your trusted expense tracking companion that revolutionizes the way you manage your finances. Start your journey towards financial success today!
 
